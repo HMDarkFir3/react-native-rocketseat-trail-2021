@@ -18,6 +18,16 @@ Main challenge, Chapter 03, Ignite (Rocketseat) - React Native.
 
 To clone and run this app, you will need to [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) and [Android Studio](https://developer.android.com/studio) installed on your computer or a mobile device with android or ios with the [ExpoGo](https://expo.dev/client) app installed.
 
+### 🌀 Cloning the repository
+
+```bash
+# Clone this repository
+$ git clone https://github.com/HMDarkFir3/github-explorer.git
+
+# Access the project folder in the terminal/cmd
+$ cd github-explorer
+```
+
 ### 🎲 Running the Application
 
 ```bash
