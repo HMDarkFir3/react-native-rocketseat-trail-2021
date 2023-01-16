@@ -16,6 +16,16 @@ Application developed in Ignite Chapter 01 (Rocketseat) - React Native.
 
 To clone and run this app, you will need to [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) and [Android Studio](https://developer.android.com/studio) installed on your computer.
 
+### 🌀 Cloning the repository
+
+```bash
+# Clone this repository
+$ git clone https://github.com/HMDarkFir3/myskills.git
+
+# Access the project folder in the terminal/cmd
+$ cd myskills
+```
+
 ### 🎲 Running the Application
 
 ```bash
