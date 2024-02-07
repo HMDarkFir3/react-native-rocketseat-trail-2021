@@ -1,4 +1,4 @@
-This repository contains all the projects from every chapter of the React Native Rocketseat Trial course from 2021
+This repository contains all the projects from every chapter of the React Native Rocketseat Trial course from 2021.
 
 ## Projects
 
